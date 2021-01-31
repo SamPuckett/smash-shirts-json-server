@@ -1,4 +1,5 @@
-[
+{
+  "shirts": [
    {
       "name": "byleth",
       "description": "A sick byleth shirt!",
@@ -12,3 +13,4 @@
       "image": "https://res.cloudinary.com/dnrbgmcm4/image/upload/v1612118564/smash%20shirt%20next.js%20and%20framer%20motion/mewtwo_rkfre3.avif"
    }
 ]
+}
